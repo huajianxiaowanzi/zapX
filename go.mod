@@ -1,4 +1,4 @@
-module zap_pro
+module github.com/huajianxiaowanzi/zapX
 
 go 1.24.0
 

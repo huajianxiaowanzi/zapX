@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/huajianxiaowanzi/zapX/log"
 	"go.uber.org/zap"
-	"zap_pro/log"
 )
 
 func main() {
