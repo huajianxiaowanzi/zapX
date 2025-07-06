@@ -1,6 +1,6 @@
 # zapX - Uber Zap 日志库增强封装
 
-[![Go 代码质量](https://goreportcard.com/badge/github.com/huajianxiaowanzi/zapX)](https://goreportcard.com/report/github.com/huajianxiaowanzi/zapX)
+[![Go Report Card](https://goreportcard.com/badge/github.com/huajianxiaowanzi/zapX)](https://goreportcard.com/report/github.com/huajianxiaowanzi/zapX)
 [![Go 参考文档](https://pkg.go.dev/badge/github.com/huajianxiaowanzi/zapX.svg)](https://pkg.go.dev/github.com/huajianxiaowanzi/zapX)
 
 zapX 是对 Uber Zap 高性能日志库的增强封装，提供更友好的 API 接口和开箱即用的最佳实践配置。
