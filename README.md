@@ -1,4 +1,4 @@
-# zapX - Uber Zap 日志库增强封装
+# zapX - Uber Zap 日志库
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/huajianxiaowanzi/zapX)](https://goreportcard.com/report/github.com/huajianxiaowanzi/zapX)
 [![Go 参考文档](https://pkg.go.dev/badge/github.com/huajianxiaowanzi/zapX.svg)](https://pkg.go.dev/github.com/huajianxiaowanzi/zapX)
