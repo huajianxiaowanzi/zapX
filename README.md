@@ -17,7 +17,7 @@ zapX 是对 Uber Zap 高性能日志库的增强封装，提供更友好的 API 
 ## 安装
 
 ```bash
-go get github.com/huajianxiaowanzi/zapX
+go get github.com/huajianxiaowanzi/zapX/log@v0.1.0
 ```
 
 ## 🚀 快速开始
